@@ -178,19 +178,6 @@ graph LR
 
 ---
 
-## 📊 Channel Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mughaldev0&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mughaldev0&theme=radical&hide_border=true" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mughaldev0&theme=react-dark&hide_border=true&area=true" width="100%"/>
-</div>
-
----
-
 ## 🚀 How It Works
 
 <div align="center">

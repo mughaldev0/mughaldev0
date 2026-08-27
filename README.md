@@ -173,12 +173,8 @@ graph LR
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/mughaldev0/contribution-cal-snake/blob/master/animation/snake.gif" alt="snake" width="100%"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%"/>
 </div>
-
-> ⚙️ **Setup note:** replace `YOUR_GITHUB_USERNAME` above with your real GitHub username, and set up the
-> [`contribution-cal-snake`](https://github.com/marketplace/actions/contribution-cal-snake) action (or `Platane/snk`)
-> in your **profile repo** (`.github/workflows/snake.yml`) so the animation regenerates automatically on your contribution graph.
 
 ---
 

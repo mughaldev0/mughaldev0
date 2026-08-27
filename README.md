@@ -65,6 +65,10 @@ Everything we drop is **100% free — always.**
 ## 🎁 What You'll Get
 
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Curated+drops.+Zero+cost.+Every+time.;Source+Codes+%F0%9F%92%BB+WordPress+%F0%9F%8C%90+Plugins+%F0%9F%A7%A9;UI+Kits+%F0%9F%8E%A8+AI+Skills+%F0%9F%A4%96+Prompts+%E2%9C%8D%EF%B8%8F&font=Fira%20Code&center=true&width=700&height=40&color=FF6B6B&vCenter=true&size=18&pause=1000" alt="typing-svg" />
+</div>
+
+<div align="center">
 
 | 💻 Source Codes | 🌐 WordPress | 🧩 Plugins | 🎨 UI Components |
 |:---:|:---:|:---:|:---:|
@@ -73,6 +77,10 @@ Everything we drop is **100% free — always.**
 | 🤖 AI Skills | 🧠 Vibe Coding | ✍️ Prompts | ⚡ Tech Assets |
 |:---:|:---:|:---:|:---:|
 | Claude / GPT skill packs | Workflows & mindset guides | Ready-made AI prompts | Icons, fonts, assets & tools |
+
+| 🧭 AI Coding Agents | 🧱 Chrome Extensions | ⚙️ Electron Apps | 📦 npm Packages |
+|:---:|:---:|:---:|:---:|
+| Agent workflows & configs | Browser extension boilerplates | Desktop app starters | Ready-made AI/dev packages |
 
 </div>
 
@@ -83,78 +91,130 @@ Everything we drop is **100% free — always.**
 ## 🛠️ Tech We Cover
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,wordpress,php,figma,git,github,vscode,python&theme=dark" />
+
+**Frontend & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,electron,vite&theme=dark" />
+
+<br/><br/>
+
+**Backend, Data & Cloud**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,php,wordpress,graphql,mongodb,postgres,redis&theme=dark" />
+
+<br/><br/>
+
+**AI, Tools & DevOps**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,docker,kubernetes,git,github,vscode,figma,npm&theme=dark" />
+
 </div>
+
+<br/>
+
+<div align="center">
+
+### 🤖 AI Coding Agents & Assistants We Explore
+
+<img src="https://img.shields.io/badge/Antigravity-AI%20Agent-8A2BE2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude%20Code-Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-AI%20Editor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/Windsurf-AI%20Agent-00B4D8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ChatGPT-Prompts-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+
+### 🧩 Chrome Extensions & Desktop
+
+<img src="https://img.shields.io/badge/Chrome%20Extensions-Manifest%20V3-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Electron.js-Desktop%20Apps-47848F?style=for-the-badge&logo=electron&logoColor=white" />
+<img src="https://img.shields.io/badge/Tauri-Lightweight%20Apps-FFC131?style=for-the-badge&logo=tauri&logoColor=white" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="100%">
+
+---
+
+## 🕒 Drop Timeline
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%93%A6+New+drop+every+week...;%F0%9F%94%93+Unlocking+the+next+level...;%F0%9F%93%88+Community+leveling+up...&font=Fira%20Code&center=true&width=650&height=40&color=00F5A0&vCenter=true&size=18&pause=1200" />
+</div>
+
+<table align="center">
+<tr><td width="60" align="center">🟢</td><td><b>Level 1 — Starter Drops</b></td><td>UI components, icon packs, free prompts</td></tr>
+<tr><td align="center">🟡</td><td><b>Level 2 — Builder Drops</b></td><td>WordPress themes, plugins, npm packages</td></tr>
+<tr><td align="center">🟠</td><td><b>Level 3 — Pro Drops</b></td><td>Full source codes, chrome extensions, electron apps</td></tr>
+<tr><td align="center">🔴</td><td><b>Level 4 — Agent Drops</b></td><td>AI skills, agent workflows, vibe-coding blueprints</td></tr>
+</table>
+
+<div align="center">
+
+```mermaid
+%%{init: {'theme':'dark'}}%%
+graph LR
+    A[🟢 Level 1<br/>Starter Drops] --> B[🟡 Level 2<br/>Builder Drops]
+    B --> C[🟠 Level 3<br/>Pro Drops]
+    C --> D[🔴 Level 4<br/>Agent Drops]
+    D --> E[✨ You, Shipping Faster]
+    style A fill:#25D366,stroke:#fff,color:#fff
+    style B fill:#F9C80E,stroke:#fff,color:#000
+    style C fill:#FF6B35,stroke:#fff,color:#fff
+    style D fill:#E63946,stroke:#fff,color:#fff
+    style E fill:#6A00FF,stroke:#fff,color:#fff
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d0-4696-9382-27d0a3b5d1c3.png" width="100%">
 
 ---
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation"/>
+  <img src="https://github.com/mughaldev0/contribution-cal-snake/blob/master/animation/snake.gif" alt="snake" width="100%"/>
 </div>
 
-> ⚙️ **Setup note:** the snake above animates automatically once you add the workflow file
-> (`.github/workflows/snake.yml`, included below) to this repo and replace
-> `YOUR_GITHUB_USERNAME` in the image URL with your actual GitHub username.
-
-<details>
-<summary>📄 Click to view <code>snake.yml</code> workflow</summary>
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  push:
-    branches:
-      - main
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-</details>
+> ⚙️ **Setup note:** replace `YOUR_GITHUB_USERNAME` above with your real GitHub username, and set up the
+> [`contribution-cal-snake`](https://github.com/marketplace/actions/contribution-cal-snake) action (or `Platane/snk`)
+> in your **profile repo** (`.github/workflows/snake.yml`) so the animation regenerates automatically on your contribution graph.
 
 ---
 
 ## 📊 Channel Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mughaldev0&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mughaldev0&theme=radical&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mughaldev0&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
 
 ## 🚀 How It Works
 
-```
-1️⃣  Join the WhatsApp channel
-2️⃣  Get notified on every free drop
-3️⃣  Grab source codes, templates & prompts
-4️⃣  Build faster, ship faster — for $0
-```
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=1.+Join+the+WhatsApp+channel+%F0%9F%93%B2;2.+Get+notified+on+every+free+drop+%F0%9F%94%94;3.+Grab+codes%2C+templates+%26+prompts+%F0%9F%93%A5;4.+Build+%26+ship+faster+for+%240+%F0%9F%9A%80&font=Fira%20Code&center=true&width=700&height=40&color=FFD166&vCenter=true&size=18&pause=1000" />
+</div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="500">
+</div>
+
+---
+
+## 💬 Community & Support
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/221407493-7936c8c2-b9e0-4dc4-a1d2-0f70a1980f3a.gif" width="100">
+
+Got a request? Want a specific template, plugin, or AI prompt pack?
+Drop it in the channel — we build what the community needs.
+
 </div>
 
 ---
